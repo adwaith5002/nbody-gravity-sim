@@ -1,0 +1,4 @@
+D:/Summee)Vacation/nbody-gravity-sim/build/CMakeFiles/triangle_test.dir
+D:/Summee)Vacation/nbody-gravity-sim/build/CMakeFiles/gravity_sim.dir
+D:/Summee)Vacation/nbody-gravity-sim/build/CMakeFiles/ALL_BUILD.dir
+D:/Summee)Vacation/nbody-gravity-sim/build/CMakeFiles/ZERO_CHECK.dir

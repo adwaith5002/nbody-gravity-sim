@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Summee)Vacation\nbody-gravity-sim\build\CMakeFiles\b1d27fd36265048fda71fbee1a043df5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C3A6237E-F5FC-3F66-AD55-1B81761CB865}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
